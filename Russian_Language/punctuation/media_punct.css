@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@media (min-width:766px){
+    .img_book{
+        width: 600px;
+         height: 500px;
+         background-repeat: no-repeat;
+         background-size: contain;
+         background:url("../images/book.jpg") 50%/cover;
+    }
+    .img_book_cont{
+        margin: auto;
+        width: 600px;
+         height: 500px;
+    }
+}

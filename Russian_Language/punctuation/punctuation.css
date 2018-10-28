@@ -1,0 +1,152 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body{
+    margin:0;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+   
+
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-size: 1.3rem;
+}
+.punctuation{
+    
+    margin: auto;
+    width: 80%;
+    padding-top: 10px;
+  
+   
+
+}
+
+
+.head1{
+    background-color: rgb(51, 103, 214);
+    width:100%;
+    height:80px;
+    padding-left: 17%;
+    box-sizing: border-box;
+    padding-top:8px; 
+    margin-bottom: 10px;
+    
+       
+}
+#color{
+    color:rgba(0, 0, 0, 0.733);
+}
+.header_text{
+    
+    margin-top:0;
+    text-align: left;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    }
+    #h1{
+        margin: 0;
+        }
+        #padding{
+            padding-top: 10px;
+        }
+        .the_main1{
+            width: 80%;
+            height: 30%;
+            margin: auto;
+            margin-bottom: 30px;
+            }
+            .main_menu {
+                width: 200px;
+                height: 100vh;
+                position: fixed;
+                left: -203px;
+                top: 0;
+                background:whitesmoke;
+                transition: 1s;
+                border: 2px inset black;
+                padding-left: 10px;
+                box-sizing: border-box;
+                }
+                
+                .menu_open {
+                position: absolute;
+                height: 40px;
+                width: 40px;
+                right: -40px;
+                top: 0;
+                background:url("D:/Webb/Russian_Language/images/iconb.png") 50%/cover;
+                
+                }
+                
+                .main_menu_open {
+                left: 0;
+                
+                }
+                a{
+                    text-decoration: none;
+                }
+                .nav_punkt_box {
+                    text-align: center;
+            }
+            .nav_punkt {
+                color: white;
+                height: 140px;
+                width: 300px;
+                box-sizing: border-box;
+                background:#E065BB;
+                display: inline-block;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                margin-right: 10px;
+                padding-left: 25px;
+                padding-right: 25px;
+                padding-bottom: 25px;
+
+        }
+        .img_book_cont{
+            margin: auto;
+        }
+       
+           .img_book{
+               background:url("../images/book.jpg") 50%/cover;
+           } 
+        
+        .footer{
+            height: 10vh;
+             width: 100%;
+             border-top: 2px inset rgb(51, 103, 214);
+             padding-left:50px;
+             box-sizing: border-box;
+         }
+         .logo{
+             width: 200px;
+             height: 64px;
+             background-repeat: no-repeat;
+             background-size: contain;
+             
+     
+         }
+               li{
+                   padding-bottom: 10px;
+                   font-size: 1.2rem;
+               }
+               #hr{
+                   background-color: rgb(218, 42, 165);
+                   width: 50%;
+                   height: 3px;
+                   border-radius: 20%;
+                   border: none;
+               }
+               #hr2{
+                background-color: rgb(51, 103, 214);;
+                width: 100%;
+                height: 3px;
+                border-radius: 20%;
+                border: none; 
+                margin-bottom: 30px;
+               }
