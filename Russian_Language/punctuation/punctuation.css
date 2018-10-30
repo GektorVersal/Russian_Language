@@ -8,6 +8,10 @@ body{
    
 
 }
+h5{
+    font-size: 1.2rem;
+    color:#E065BB;
+}
 
 h2{
     text-align: center;
@@ -21,11 +25,18 @@ p{
     margin: auto;
     width: 80%;
     padding-top: 10px;
-  
-   
-
+  }
+  h3{
+    color: rgb(10, 37, 95);
+    font-size:1.3rem; 
+  }
+  #h3_white{
+      color:white;
+  }
+h4{
+    color: rgb(51, 103, 214);
+    font-size:1.2rem;   
 }
-
 
 .head1{
     background-color: rgb(51, 103, 214);
