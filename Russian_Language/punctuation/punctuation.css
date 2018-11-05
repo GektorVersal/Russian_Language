@@ -106,19 +106,20 @@ h4{
                 }
                 .nav_punkt_box {
                     text-align: center;
-            }
+                   }
             .nav_punkt {
                 color: white;
-                height: 240px;
+                height: 140px;
                 width: 245px;
                 box-sizing: border-box;
                 background:#E065BB;
-                display: inline-block;
                 margin-top: 20px;
                 margin-bottom: 20px;
                 margin-right: 10px;
                 margin-left:5px;
-               padding-top:70px;
+               padding-top:20px;
+               display: inline-block;
+               
 
         }
         .img_book_cont{
