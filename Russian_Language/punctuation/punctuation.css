@@ -101,23 +101,24 @@ h4{
                 a{
                     text-decoration: none;
                 }
+                .slide1head{
+                    top:30px;
+                }
                 .nav_punkt_box {
                     text-align: center;
             }
             .nav_punkt {
                 color: white;
-                height: 140px;
-                width: 300px;
+                height: 240px;
+                width: 245px;
                 box-sizing: border-box;
                 background:#E065BB;
                 display: inline-block;
                 margin-top: 20px;
                 margin-bottom: 20px;
                 margin-right: 10px;
-                padding-top: 25px;
-                padding-left: 25px;
-                padding-right: 25px;
-                padding-bottom: 25px;
+                margin-left:5px;
+               padding-top:70px;
 
         }
         .img_book_cont{
